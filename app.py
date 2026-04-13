@@ -436,10 +436,6 @@ if "⚪ Survey" in page:
 
     st.markdown("---")
 
-    # Si hay un archivo subido, avisamos que la encuesta añadirá datos locales
-    if uploaded_file is not None:
-        st.info("💡 Estás en modo de visualización de CSV. Las nuevas respuestas se guardarán solo en la base de datos local.")
-
     with st.form("survey_form"):
         st.markdown('<p class="section-header">About you</p>', unsafe_allow_html=True)
         c1, c2, c3 = st.columns(3)
@@ -451,10 +447,11 @@ if "⚪ Survey" in page:
             gender = st.selectbox("Gender", ["Prefer not to say", "Female", "Male", "Non-binary", "Other"])
 
         st.markdown('<p class="section-header">Dietary habits</p>', unsafe_allow_html=True)
+
         c1, c2 = st.columns(2)
         with c1:
             meat_freq = st.select_slider(
-                "How often do you eat meat?",
+                "How often do you eat meat (beef, pork, chicken)?",
                 options=[0, 1, 2, 3, 4, 5],
                 format_func=lambda x: ["Never", "Rarely", "1-2x/week", "3-4x/week", "Daily", "Multiple/day"][x],
                 value=2
@@ -465,36 +462,147 @@ if "⚪ Survey" in page:
                 format_func=lambda x: ["Never", "Rarely", "Sometimes", "Often", "Daily", "Every meal"][x],
                 value=3
             )
-            # ... (Aquí van el resto de los sliders de tu código original) ...
-            # Asegúrate de incluir fruit_freq, grain_freq, fat_pref, etc.
+            fruit_freq = st.select_slider(
+                "How often do you eat fresh fruit?",
+                options=[0, 1, 2, 3, 4, 5],
+                format_func=lambda x: ["Never", "Rarely", "Sometimes", "Often", "Daily", "Multiple/day"][x],
+                value=3
+            )
+            grain_freq = st.select_slider(
+                "Grains, legumes & beans consumption?",
+                options=[0, 1, 2, 3, 4, 5],
+                format_func=lambda x: ["None", "Very low", "Low", "Moderate", "High", "Very high"][x],
+                value=3
+            )
 
-        # Al final del formulario
-        submitted = st.form_submit_button("🔍 Classify my diet", use_container_width=True)
+        with c2:
+            fat_pref = st.select_slider(
+                "Preference for fats (butter, oils, fatty meats)?",
+                options=[0, 1, 2, 3, 4, 5],
+                format_func=lambda x: ["Avoid all fats", "Very low fat", "Low fat", "Moderate", "High fat", "Keto-level"][x],
+                value=2
+            )
+            protein_pref = st.select_slider(
+                "Importance of protein in your diet?",
+                options=[0, 1, 2, 3, 4, 5],
+                format_func=lambda x: ["Not important", "Low priority", "Below average", "Average", "High priority", "Primary focus"][x],
+                value=3
+            )
+            variety_pref = st.select_slider(
+                "How much dietary variety do you prefer?",
+                options=[0, 1, 2, 3, 4, 5],
+                format_func=lambda x: ["Very rigid", "Little variety", "Some variety", "Moderate", "High variety", "Maximally varied"][x],
+                value=3
+            )
+            env_concern = st.select_slider(
+                "How important is environmental impact in food choices?",
+                options=[0, 1, 2, 3, 4, 5],
+                format_func=lambda x: ["Not at all", "Slightly", "Somewhat", "Moderately", "Very important", "Primary driver"][x],
+                value=2
+            )
+
+        st.markdown('<p class="section-header">Health & medical</p>', unsafe_allow_html=True)
+
+        c1, c2 = st.columns(2)
+        with c1:
+            sodium_concern = st.select_slider(
+                "Need to limit sodium / salt intake?",
+                options=[0, 1, 2, 3, 4, 5],
+                format_func=lambda x: ["No concern", "Slight care", "Some care", "Moderate care", "High concern", "Medical restriction"][x],
+                value=1
+            )
+            medical_cond = st.select_slider(
+                "Do you have medical dietary conditions (diabetes, renal, dysphagia, etc.)?",
+                options=[0, 1, 2, 3, 4, 5],
+                format_func=lambda x: ["None", "Minor", "Mild condition", "Moderate", "Significant", "Severe/complex"][x],
+                value=0
+            )
+        with c2:
+            allergies = st.multiselect(
+                "Allergies or intolerances",
+                ["Gluten", "Lactose/Dairy", "Nuts", "Eggs", "Soy", "Shellfish", "None"],
+                default=["None"]
+            )
+            goals = st.multiselect(
+                "Primary health goals",
+                ["Weight loss", "Muscle gain", "Heart health", "Blood sugar control",
+                 "Anti-inflammatory", "Digestive health", "Energy levels", "General wellness"],
+                default=["General wellness"]
+            )
+
+        st.markdown("---")
+        submitted = st.form_submit_button("Classify my diet", use_container_width=True)
 
     if submitted:
-        # Reutilizamos tu lógica de clasificación
         answers = {
             "meat_freq": meat_freq, "veg_freq": veg_freq,
-            # ... completa con el resto de los sliders ...
+            "fruit_freq": fruit_freq, "grain_freq": grain_freq,
+            "fat_pref": fat_pref, "medical_cond": medical_cond,
+            "env_concern": env_concern, "sodium_concern": sodium_concern,
+            "protein_pref": protein_pref, "variety_pref": variety_pref
         }
-        
+
         result = classify_diet(answers)
+        diet_info = DIET_PROFILES[result["diet_key"]]
+
         entry = {
             "timestamp": datetime.now().isoformat(),
             "name": name or "Anonymous",
             "age": int(age),
             "gender": gender,
             "answers": answers,
+            "allergies": allergies,
+            "goals": goals,
             "diet_key": result["diet_key"],
             "diet_name": result["diet_name"],
             "confidence": result["confidence"],
+            "scores": result["scores"],
             "feature_vector": result["feature_vector"]
         }
-        
-        # Guardamos en el JSON local
         save_response(entry)
-        st.success("¡Respuesta guardada con éxito!")
-        st.balloons()
+
+        st.success("Response saved! Here is your result:")
+        st.markdown("---")
+
+        st.markdown(f"""
+        <div class="result-hero">
+            <div style="font-size:3rem; margin-bottom:0.5rem;">{diet_info['emoji']}</div>
+            <h2>{diet_info['name']}</h2>
+            <p style="font-size:1.1rem;">{diet_info['subtitle']}</p>
+            <p style="font-size:0.9rem; margin-top:1rem;">{diet_info['description']}</p>
+        </div>
+        """, unsafe_allow_html=True)
+
+        st.markdown("#### Similarity to each diet profile")
+        cols = st.columns(4)
+        for i, (key, diet) in enumerate(DIET_PROFILES.items()):
+            with cols[i]:
+                score = result["scores"][key]
+                is_best = key == result["diet_key"]
+                st.markdown(f"""
+                <div class="metric-pill" style="border: {'2px solid ' + diet['color'] if is_best else '1px solid #e0dbf7'}">
+                    <div style="font-size:1.5rem;">{diet['emoji']}</div>
+                    <div class="val" style="color:{diet['color']}">{score}%</div>
+                    <div class="lbl">{diet['name']}</div>
+                </div>
+                """, unsafe_allow_html=True)
+
+        st.markdown("")
+
+        c1, c2, c3 = st.columns(3)
+        with c1:
+            st.markdown("**Recommended foods**")
+            for f in diet_info["foods"]:
+                st.markdown(f"- {f}")
+        with c2:
+            st.markdown("**Limit or avoid**")
+            for f in diet_info["avoid"]:
+                st.markdown(f"- {f}")
+        with c3:
+            st.markdown("**Health focus**")
+            for f in diet_info["health_focus"]:
+                st.markdown(f"- {f}")
+
 # =============================================================================
 # PAGE: DASHBOARD
 # =============================================================================
