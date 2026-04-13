@@ -1,0 +1,5034 @@
+[
+  {
+    "timestamp": "2026-04-06T14:36:54.586758",
+    "name": "miguelito",
+    "age": 21,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 4,
+      "fruit_freq": 3,
+      "grain_freq": 3,
+      "fat_pref": 1,
+      "medical_cond": 2,
+      "env_concern": 2,
+      "sodium_concern": 2,
+      "protein_pref": 2,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "None",
+      "Lactose/Dairy"
+    ],
+    "goals": [
+      "General wellness"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 95.3,
+    "scores": {
+      "plant_based": 92.0,
+      "mediterranean": 95.3,
+      "low_carb": 64.4,
+      "therapeutic": 85.9
+    },
+    "feature_vector": [
+      1.0,
+      4.0,
+      3.0,
+      3.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T15:24:48.703338",
+    "name": "miguelito",
+    "age": 30,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 3,
+      "fruit_freq": 3,
+      "grain_freq": 3,
+      "fat_pref": 2,
+      "medical_cond": 0,
+      "env_concern": 2,
+      "sodium_concern": 1,
+      "protein_pref": 3,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "None"
+    ],
+    "goals": [
+      "General wellness"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 96.4,
+    "scores": {
+      "plant_based": 88.0,
+      "mediterranean": 96.4,
+      "low_carb": 76.8,
+      "therapeutic": 73.4
+    },
+    "feature_vector": [
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      2.0,
+      0.0,
+      2.0,
+      1.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T15:24:59.234164",
+    "name": "miguelote",
+    "age": 30,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 3,
+      "fruit_freq": 3,
+      "grain_freq": 3,
+      "fat_pref": 2,
+      "medical_cond": 0,
+      "env_concern": 2,
+      "sodium_concern": 1,
+      "protein_pref": 3,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "None"
+    ],
+    "goals": [
+      "General wellness"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 96.4,
+    "scores": {
+      "plant_based": 88.0,
+      "mediterranean": 96.4,
+      "low_carb": 76.8,
+      "therapeutic": 73.4
+    },
+    "feature_vector": [
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      2.0,
+      0.0,
+      2.0,
+      1.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T15:25:08.794963",
+    "name": "miguelon",
+    "age": 30,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 4,
+      "fruit_freq": 2,
+      "grain_freq": 2,
+      "fat_pref": 2,
+      "medical_cond": 0,
+      "env_concern": 2,
+      "sodium_concern": 1,
+      "protein_pref": 1,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "None"
+    ],
+    "goals": [
+      "General wellness"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 91.7,
+    "scores": {
+      "plant_based": 88.1,
+      "mediterranean": 91.7,
+      "low_carb": 61.8,
+      "therapeutic": 69.1
+    },
+    "feature_vector": [
+      1.0,
+      4.0,
+      2.0,
+      2.0,
+      2.0,
+      0.0,
+      2.0,
+      1.0,
+      1.0,
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T15:25:20.338384",
+    "name": "miguelon",
+    "age": 30,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 4,
+      "fruit_freq": 2,
+      "grain_freq": 2,
+      "fat_pref": 2,
+      "medical_cond": 0,
+      "env_concern": 2,
+      "sodium_concern": 1,
+      "protein_pref": 1,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "None"
+    ],
+    "goals": [
+      "General wellness"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 91.7,
+    "scores": {
+      "plant_based": 88.1,
+      "mediterranean": 91.7,
+      "low_carb": 61.8,
+      "therapeutic": 69.1
+    },
+    "feature_vector": [
+      1.0,
+      4.0,
+      2.0,
+      2.0,
+      2.0,
+      0.0,
+      2.0,
+      1.0,
+      1.0,
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T15:25:39.207443",
+    "name": "miguelon",
+    "age": 30,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 0,
+      "fruit_freq": 0,
+      "grain_freq": 0,
+      "fat_pref": 5,
+      "medical_cond": 5,
+      "env_concern": 1,
+      "sodium_concern": 5,
+      "protein_pref": 4,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "None"
+    ],
+    "goals": [
+      "General wellness"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 84.4,
+    "scores": {
+      "plant_based": 28.3,
+      "mediterranean": 58.1,
+      "low_carb": 84.4,
+      "therapeutic": 76.5
+    },
+    "feature_vector": [
+      5.0,
+      0.0,
+      0.0,
+      0.0,
+      5.0,
+      5.0,
+      1.0,
+      5.0,
+      4.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T15:25:51.165307",
+    "name": "miguelon",
+    "age": 30,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 0,
+      "fruit_freq": 0,
+      "grain_freq": 0,
+      "fat_pref": 5,
+      "medical_cond": 5,
+      "env_concern": 1,
+      "sodium_concern": 5,
+      "protein_pref": 4,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "None"
+    ],
+    "goals": [
+      "General wellness"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 84.4,
+    "scores": {
+      "plant_based": 28.3,
+      "mediterranean": 58.1,
+      "low_carb": 84.4,
+      "therapeutic": 76.5
+    },
+    "feature_vector": [
+      5.0,
+      0.0,
+      0.0,
+      0.0,
+      5.0,
+      5.0,
+      1.0,
+      5.0,
+      4.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T15:28:24.579139",
+    "name": "Dummy_User_1",
+    "age": 42,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 4,
+      "fruit_freq": 5,
+      "grain_freq": 3,
+      "fat_pref": 0,
+      "medical_cond": 0,
+      "env_concern": 3,
+      "sodium_concern": 1,
+      "protein_pref": 1,
+      "variety_pref": 4
+    },
+    "allergies": [
+      "Gluten"
+    ],
+    "goals": [
+      "Anti-inflammatory",
+      "Energy levels",
+      "Muscle gain"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 88.2,
+    "scores": {
+      "plant_based": 80.6,
+      "mediterranean": 88.2,
+      "low_carb": 63.7,
+      "therapeutic": 64.2
+    },
+    "feature_vector": [
+      5.0,
+      4.0,
+      5.0,
+      3.0,
+      0.0,
+      0.0,
+      3.0,
+      1.0,
+      1.0,
+      4.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-20T15:28:24.579139",
+    "name": "Dummy_User_2",
+    "age": 75,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 2,
+      "fruit_freq": 0,
+      "grain_freq": 4,
+      "fat_pref": 4,
+      "medical_cond": 0,
+      "env_concern": 4,
+      "sodium_concern": 5,
+      "protein_pref": 1,
+      "variety_pref": 1
+    },
+    "allergies": [
+      "Eggs"
+    ],
+    "goals": [
+      "Muscle gain",
+      "Heart health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 79.7,
+    "scores": {
+      "plant_based": 73.9,
+      "mediterranean": 79.7,
+      "low_carb": 64.1,
+      "therapeutic": 68.7
+    },
+    "feature_vector": [
+      1.0,
+      2.0,
+      0.0,
+      4.0,
+      4.0,
+      0.0,
+      4.0,
+      5.0,
+      1.0,
+      1.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-25T15:28:24.579139",
+    "name": "Dummy_User_3",
+    "age": 24,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 5,
+      "fruit_freq": 1,
+      "grain_freq": 0,
+      "fat_pref": 4,
+      "medical_cond": 0,
+      "env_concern": 0,
+      "sodium_concern": 2,
+      "protein_pref": 3,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Heart health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 65.0,
+    "scores": {
+      "plant_based": 59.4,
+      "mediterranean": 65.0,
+      "low_carb": 56.8,
+      "therapeutic": 51.3
+    },
+    "feature_vector": [
+      0.0,
+      5.0,
+      1.0,
+      0.0,
+      4.0,
+      0.0,
+      0.0,
+      2.0,
+      3.0,
+      0.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-04T15:28:24.579139",
+    "name": "Dummy_User_4",
+    "age": 47,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 5,
+      "fruit_freq": 2,
+      "grain_freq": 1,
+      "fat_pref": 4,
+      "medical_cond": 0,
+      "env_concern": 5,
+      "sodium_concern": 0,
+      "protein_pref": 3,
+      "variety_pref": 1
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Anti-inflammatory",
+      "Energy levels"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 83.0,
+    "scores": {
+      "plant_based": 67.0,
+      "mediterranean": 81.5,
+      "low_carb": 83.0,
+      "therapeutic": 53.2
+    },
+    "feature_vector": [
+      5.0,
+      5.0,
+      2.0,
+      1.0,
+      4.0,
+      0.0,
+      5.0,
+      0.0,
+      3.0,
+      1.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-27T15:28:24.579139",
+    "name": "Dummy_User_5",
+    "age": 28,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 4,
+      "fruit_freq": 5,
+      "grain_freq": 1,
+      "fat_pref": 5,
+      "medical_cond": 0,
+      "env_concern": 1,
+      "sodium_concern": 5,
+      "protein_pref": 5,
+      "variety_pref": 1
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Heart health",
+      "Weight loss",
+      "Anti-inflammatory"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 77.8,
+    "scores": {
+      "plant_based": 75.5,
+      "mediterranean": 77.8,
+      "low_carb": 63.3,
+      "therapeutic": 66.6
+    },
+    "feature_vector": [
+      0.0,
+      4.0,
+      5.0,
+      1.0,
+      5.0,
+      0.0,
+      1.0,
+      5.0,
+      5.0,
+      1.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-28T15:28:24.579139",
+    "name": "Dummy_User_6",
+    "age": 46,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 2,
+      "fruit_freq": 3,
+      "grain_freq": 1,
+      "fat_pref": 3,
+      "medical_cond": 0,
+      "env_concern": 0,
+      "sodium_concern": 1,
+      "protein_pref": 5,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "Soy",
+      "Shellfish"
+    ],
+    "goals": [
+      "Muscle gain"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 80.6,
+    "scores": {
+      "plant_based": 63.4,
+      "mediterranean": 79.1,
+      "low_carb": 80.6,
+      "therapeutic": 63.7
+    },
+    "feature_vector": [
+      2.0,
+      2.0,
+      3.0,
+      1.0,
+      3.0,
+      0.0,
+      0.0,
+      1.0,
+      5.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-28T15:28:24.579139",
+    "name": "Dummy_User_7",
+    "age": 41,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 1,
+      "fruit_freq": 0,
+      "grain_freq": 3,
+      "fat_pref": 1,
+      "medical_cond": 0,
+      "env_concern": 1,
+      "sodium_concern": 4,
+      "protein_pref": 5,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "Lactose/Dairy",
+      "Shellfish"
+    ],
+    "goals": [
+      "Weight loss",
+      "Energy levels",
+      "General wellness"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 75.9,
+    "scores": {
+      "plant_based": 64.5,
+      "mediterranean": 75.9,
+      "low_carb": 59.5,
+      "therapeutic": 69.6
+    },
+    "feature_vector": [
+      0.0,
+      1.0,
+      0.0,
+      3.0,
+      1.0,
+      0.0,
+      1.0,
+      4.0,
+      5.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-28T15:28:24.579139",
+    "name": "Dummy_User_8",
+    "age": 25,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 3,
+      "fruit_freq": 4,
+      "grain_freq": 1,
+      "fat_pref": 3,
+      "medical_cond": 0,
+      "env_concern": 2,
+      "sodium_concern": 2,
+      "protein_pref": 3,
+      "variety_pref": 4
+    },
+    "allergies": [
+      "Nuts",
+      "Gluten"
+    ],
+    "goals": [
+      "General wellness"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 90.2,
+    "scores": {
+      "plant_based": 80.1,
+      "mediterranean": 90.2,
+      "low_carb": 73.1,
+      "therapeutic": 72.5
+    },
+    "feature_vector": [
+      2.0,
+      3.0,
+      4.0,
+      1.0,
+      3.0,
+      0.0,
+      2.0,
+      2.0,
+      3.0,
+      4.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-17T15:28:24.579139",
+    "name": "Dummy_User_9",
+    "age": 63,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 1,
+      "fruit_freq": 2,
+      "grain_freq": 1,
+      "fat_pref": 1,
+      "medical_cond": 0,
+      "env_concern": 2,
+      "sodium_concern": 3,
+      "protein_pref": 5,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "Eggs",
+      "Lactose/Dairy"
+    ],
+    "goals": [
+      "Heart health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 84.0,
+    "scores": {
+      "plant_based": 67.9,
+      "mediterranean": 84.0,
+      "low_carb": 75.3,
+      "therapeutic": 70.5
+    },
+    "feature_vector": [
+      2.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0,
+      0.0,
+      2.0,
+      3.0,
+      5.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-03T15:28:24.579139",
+    "name": "Dummy_User_10",
+    "age": 45,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 3,
+      "veg_freq": 0,
+      "fruit_freq": 1,
+      "grain_freq": 0,
+      "fat_pref": 4,
+      "medical_cond": 2,
+      "env_concern": 3,
+      "sodium_concern": 1,
+      "protein_pref": 5,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Heart health"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 91.5,
+    "scores": {
+      "plant_based": 40.4,
+      "mediterranean": 63.7,
+      "low_carb": 91.5,
+      "therapeutic": 59.6
+    },
+    "feature_vector": [
+      3.0,
+      0.0,
+      1.0,
+      0.0,
+      4.0,
+      2.0,
+      3.0,
+      1.0,
+      5.0,
+      0.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-30T15:28:24.579139",
+    "name": "Dummy_User_11",
+    "age": 52,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 3,
+      "fruit_freq": 1,
+      "grain_freq": 0,
+      "fat_pref": 2,
+      "medical_cond": 5,
+      "env_concern": 2,
+      "sodium_concern": 1,
+      "protein_pref": 5,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Digestive health",
+      "Blood sugar control",
+      "Energy levels"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 82.6,
+    "scores": {
+      "plant_based": 46.5,
+      "mediterranean": 75.0,
+      "low_carb": 82.6,
+      "therapeutic": 79.9
+    },
+    "feature_vector": [
+      5.0,
+      3.0,
+      1.0,
+      0.0,
+      2.0,
+      5.0,
+      2.0,
+      1.0,
+      5.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-27T15:28:24.579139",
+    "name": "Dummy_User_12",
+    "age": 73,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 3,
+      "veg_freq": 5,
+      "fruit_freq": 0,
+      "grain_freq": 1,
+      "fat_pref": 1,
+      "medical_cond": 0,
+      "env_concern": 1,
+      "sodium_concern": 1,
+      "protein_pref": 3,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "Lactose/Dairy",
+      "Shellfish"
+    ],
+    "goals": [
+      "Muscle gain",
+      "Energy levels"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 76.5,
+    "scores": {
+      "plant_based": 61.5,
+      "mediterranean": 76.5,
+      "low_carb": 70.0,
+      "therapeutic": 52.2
+    },
+    "feature_vector": [
+      3.0,
+      5.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      3.0,
+      0.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-25T15:28:24.579139",
+    "name": "Dummy_User_13",
+    "age": 40,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 0,
+      "fruit_freq": 2,
+      "grain_freq": 1,
+      "fat_pref": 4,
+      "medical_cond": 0,
+      "env_concern": 5,
+      "sodium_concern": 0,
+      "protein_pref": 5,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Muscle gain"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 67.4,
+    "scores": {
+      "plant_based": 57.7,
+      "mediterranean": 67.4,
+      "low_carb": 65.7,
+      "therapeutic": 51.3
+    },
+    "feature_vector": [
+      0.0,
+      0.0,
+      2.0,
+      1.0,
+      4.0,
+      0.0,
+      5.0,
+      0.0,
+      5.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-06T15:28:24.579139",
+    "name": "Dummy_User_14",
+    "age": 49,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 4,
+      "veg_freq": 2,
+      "fruit_freq": 5,
+      "grain_freq": 1,
+      "fat_pref": 2,
+      "medical_cond": 2,
+      "env_concern": 3,
+      "sodium_concern": 3,
+      "protein_pref": 4,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Blood sugar control",
+      "Muscle gain"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 88.8,
+    "scores": {
+      "plant_based": 73.0,
+      "mediterranean": 88.8,
+      "low_carb": 78.2,
+      "therapeutic": 81.0
+    },
+    "feature_vector": [
+      4.0,
+      2.0,
+      5.0,
+      1.0,
+      2.0,
+      2.0,
+      3.0,
+      3.0,
+      4.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-10T15:28:24.579139",
+    "name": "Dummy_User_15",
+    "age": 32,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 4,
+      "fruit_freq": 2,
+      "grain_freq": 0,
+      "fat_pref": 1,
+      "medical_cond": 1,
+      "env_concern": 0,
+      "sodium_concern": 4,
+      "protein_pref": 3,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Blood sugar control"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 78.5,
+    "scores": {
+      "plant_based": 66.1,
+      "mediterranean": 78.5,
+      "low_carb": 52.1,
+      "therapeutic": 75.9
+    },
+    "feature_vector": [
+      1.0,
+      4.0,
+      2.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      4.0,
+      3.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-19T15:28:24.579139",
+    "name": "Dummy_User_16",
+    "age": 23,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 3,
+      "veg_freq": 2,
+      "fruit_freq": 4,
+      "grain_freq": 1,
+      "fat_pref": 2,
+      "medical_cond": 0,
+      "env_concern": 3,
+      "sodium_concern": 3,
+      "protein_pref": 5,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Muscle gain"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 88.5,
+    "scores": {
+      "plant_based": 76.6,
+      "mediterranean": 88.5,
+      "low_carb": 80.6,
+      "therapeutic": 69.6
+    },
+    "feature_vector": [
+      3.0,
+      2.0,
+      4.0,
+      1.0,
+      2.0,
+      0.0,
+      3.0,
+      3.0,
+      5.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-16T15:28:24.579139",
+    "name": "Dummy_User_17",
+    "age": 34,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 4,
+      "fruit_freq": 3,
+      "grain_freq": 0,
+      "fat_pref": 1,
+      "medical_cond": 0,
+      "env_concern": 1,
+      "sodium_concern": 4,
+      "protein_pref": 2,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "Eggs"
+    ],
+    "goals": [
+      "Weight loss"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 77.8,
+    "scores": {
+      "plant_based": 74.5,
+      "mediterranean": 77.8,
+      "low_carb": 41.4,
+      "therapeutic": 68.5
+    },
+    "feature_vector": [
+      0.0,
+      4.0,
+      3.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      4.0,
+      2.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-15T15:28:24.579139",
+    "name": "Dummy_User_18",
+    "age": 67,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 4,
+      "veg_freq": 2,
+      "fruit_freq": 1,
+      "grain_freq": 1,
+      "fat_pref": 1,
+      "medical_cond": 0,
+      "env_concern": 5,
+      "sodium_concern": 3,
+      "protein_pref": 2,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "Nuts",
+      "Eggs"
+    ],
+    "goals": [
+      "Muscle gain",
+      "Anti-inflammatory",
+      "Digestive health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 83.6,
+    "scores": {
+      "plant_based": 66.1,
+      "mediterranean": 83.6,
+      "low_carb": 69.4,
+      "therapeutic": 66.3
+    },
+    "feature_vector": [
+      4.0,
+      2.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      5.0,
+      3.0,
+      2.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-30T15:28:24.579139",
+    "name": "Dummy_User_19",
+    "age": 28,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 2,
+      "fruit_freq": 4,
+      "grain_freq": 0,
+      "fat_pref": 5,
+      "medical_cond": 0,
+      "env_concern": 2,
+      "sodium_concern": 4,
+      "protein_pref": 2,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "Gluten"
+    ],
+    "goals": [
+      "Muscle gain"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 76.8,
+    "scores": {
+      "plant_based": 70.1,
+      "mediterranean": 76.8,
+      "low_carb": 66.7,
+      "therapeutic": 67.6
+    },
+    "feature_vector": [
+      1.0,
+      2.0,
+      4.0,
+      0.0,
+      5.0,
+      0.0,
+      2.0,
+      4.0,
+      2.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-28T15:28:24.579139",
+    "name": "Dummy_User_20",
+    "age": 58,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 4,
+      "veg_freq": 1,
+      "fruit_freq": 1,
+      "grain_freq": 3,
+      "fat_pref": 2,
+      "medical_cond": 0,
+      "env_concern": 5,
+      "sodium_concern": 3,
+      "protein_pref": 0,
+      "variety_pref": 1
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Energy levels"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 80.0,
+    "scores": {
+      "plant_based": 68.4,
+      "mediterranean": 80.0,
+      "low_carb": 72.0,
+      "therapeutic": 61.9
+    },
+    "feature_vector": [
+      4.0,
+      1.0,
+      1.0,
+      3.0,
+      2.0,
+      0.0,
+      5.0,
+      3.0,
+      0.0,
+      1.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-27T15:28:24.579139",
+    "name": "Dummy_User_21",
+    "age": 77,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 0,
+      "fruit_freq": 4,
+      "grain_freq": 0,
+      "fat_pref": 1,
+      "medical_cond": 0,
+      "env_concern": 3,
+      "sodium_concern": 1,
+      "protein_pref": 0,
+      "variety_pref": 4
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Weight loss",
+      "Blood sugar control",
+      "Anti-inflammatory"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 64.8,
+    "scores": {
+      "plant_based": 63.5,
+      "mediterranean": 64.8,
+      "low_carb": 42.3,
+      "therapeutic": 52.3
+    },
+    "feature_vector": [
+      1.0,
+      0.0,
+      4.0,
+      0.0,
+      1.0,
+      0.0,
+      3.0,
+      1.0,
+      0.0,
+      4.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-20T15:28:24.579139",
+    "name": "Dummy_User_22",
+    "age": 59,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 1,
+      "fruit_freq": 4,
+      "grain_freq": 0,
+      "fat_pref": 5,
+      "medical_cond": 5,
+      "env_concern": 5,
+      "sodium_concern": 5,
+      "protein_pref": 1,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Blood sugar control"
+    ],
+    "diet_key": "therapeutic",
+    "diet_name": "Therapeutic",
+    "confidence": 82.9,
+    "scores": {
+      "plant_based": 61.5,
+      "mediterranean": 71.6,
+      "low_carb": 62.4,
+      "therapeutic": 82.9
+    },
+    "feature_vector": [
+      1.0,
+      1.0,
+      4.0,
+      0.0,
+      5.0,
+      5.0,
+      5.0,
+      5.0,
+      1.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-04T15:28:24.579139",
+    "name": "Dummy_User_23",
+    "age": 67,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 2,
+      "fruit_freq": 2,
+      "grain_freq": 1,
+      "fat_pref": 5,
+      "medical_cond": 0,
+      "env_concern": 5,
+      "sodium_concern": 5,
+      "protein_pref": 3,
+      "variety_pref": 4
+    },
+    "allergies": [
+      "Eggs"
+    ],
+    "goals": [
+      "General wellness",
+      "Muscle gain",
+      "Digestive health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 79.3,
+    "scores": {
+      "plant_based": 72.5,
+      "mediterranean": 79.3,
+      "low_carb": 63.9,
+      "therapeutic": 68.5
+    },
+    "feature_vector": [
+      0.0,
+      2.0,
+      2.0,
+      1.0,
+      5.0,
+      0.0,
+      5.0,
+      5.0,
+      3.0,
+      4.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-14T15:28:24.579139",
+    "name": "Dummy_User_24",
+    "age": 34,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 4,
+      "veg_freq": 1,
+      "fruit_freq": 3,
+      "grain_freq": 3,
+      "fat_pref": 0,
+      "medical_cond": 1,
+      "env_concern": 2,
+      "sodium_concern": 0,
+      "protein_pref": 0,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "Soy",
+      "Lactose/Dairy"
+    ],
+    "goals": [
+      "Weight loss"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 76.7,
+    "scores": {
+      "plant_based": 63.0,
+      "mediterranean": 76.7,
+      "low_carb": 59.5,
+      "therapeutic": 65.2
+    },
+    "feature_vector": [
+      4.0,
+      1.0,
+      3.0,
+      3.0,
+      0.0,
+      1.0,
+      2.0,
+      0.0,
+      0.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-31T15:28:24.579139",
+    "name": "Dummy_User_25",
+    "age": 56,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 3,
+      "veg_freq": 2,
+      "fruit_freq": 3,
+      "grain_freq": 0,
+      "fat_pref": 0,
+      "medical_cond": 5,
+      "env_concern": 0,
+      "sodium_concern": 2,
+      "protein_pref": 3,
+      "variety_pref": 4
+    },
+    "allergies": [
+      "Lactose/Dairy",
+      "Shellfish"
+    ],
+    "goals": [
+      "Heart health"
+    ],
+    "diet_key": "therapeutic",
+    "diet_name": "Therapeutic",
+    "confidence": 85.9,
+    "scores": {
+      "plant_based": 49.4,
+      "mediterranean": 69.7,
+      "low_carb": 64.4,
+      "therapeutic": 85.9
+    },
+    "feature_vector": [
+      3.0,
+      2.0,
+      3.0,
+      0.0,
+      0.0,
+      5.0,
+      0.0,
+      2.0,
+      3.0,
+      4.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-12T15:28:24.579139",
+    "name": "Dummy_User_26",
+    "age": 37,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 4,
+      "fruit_freq": 5,
+      "grain_freq": 5,
+      "fat_pref": 2,
+      "medical_cond": 5,
+      "env_concern": 0,
+      "sodium_concern": 1,
+      "protein_pref": 4,
+      "variety_pref": 4
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Energy levels",
+      "Muscle gain",
+      "Anti-inflammatory"
+    ],
+    "diet_key": "therapeutic",
+    "diet_name": "Therapeutic",
+    "confidence": 86.8,
+    "scores": {
+      "plant_based": 70.5,
+      "mediterranean": 86.4,
+      "low_carb": 78.5,
+      "therapeutic": 86.8
+    },
+    "feature_vector": [
+      5.0,
+      4.0,
+      5.0,
+      5.0,
+      2.0,
+      5.0,
+      0.0,
+      1.0,
+      4.0,
+      4.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-10T15:28:24.579139",
+    "name": "Dummy_User_27",
+    "age": 61,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 1,
+      "fruit_freq": 1,
+      "grain_freq": 0,
+      "fat_pref": 4,
+      "medical_cond": 1,
+      "env_concern": 1,
+      "sodium_concern": 0,
+      "protein_pref": 0,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "Nuts"
+    ],
+    "goals": [
+      "Blood sugar control",
+      "Muscle gain"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 61.9,
+    "scores": {
+      "plant_based": 38.3,
+      "mediterranean": 59.9,
+      "low_carb": 61.9,
+      "therapeutic": 59.1
+    },
+    "feature_vector": [
+      2.0,
+      1.0,
+      1.0,
+      0.0,
+      4.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-21T15:28:24.579139",
+    "name": "Dummy_User_28",
+    "age": 59,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 0,
+      "fruit_freq": 2,
+      "grain_freq": 1,
+      "fat_pref": 5,
+      "medical_cond": 0,
+      "env_concern": 4,
+      "sodium_concern": 1,
+      "protein_pref": 4,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Energy levels"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 79.0,
+    "scores": {
+      "plant_based": 56.3,
+      "mediterranean": 65.5,
+      "low_carb": 79.0,
+      "therapeutic": 48.9
+    },
+    "feature_vector": [
+      1.0,
+      0.0,
+      2.0,
+      1.0,
+      5.0,
+      0.0,
+      4.0,
+      1.0,
+      4.0,
+      0.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-13T15:28:24.579139",
+    "name": "Dummy_User_29",
+    "age": 76,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 4,
+      "veg_freq": 1,
+      "fruit_freq": 4,
+      "grain_freq": 5,
+      "fat_pref": 3,
+      "medical_cond": 0,
+      "env_concern": 0,
+      "sodium_concern": 0,
+      "protein_pref": 2,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "Soy",
+      "Lactose/Dairy"
+    ],
+    "goals": [
+      "Anti-inflammatory"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 80.2,
+    "scores": {
+      "plant_based": 65.5,
+      "mediterranean": 80.2,
+      "low_carb": 71.7,
+      "therapeutic": 66.2
+    },
+    "feature_vector": [
+      4.0,
+      1.0,
+      4.0,
+      5.0,
+      3.0,
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-27T15:28:24.579139",
+    "name": "Dummy_User_30",
+    "age": 50,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 1,
+      "fruit_freq": 5,
+      "grain_freq": 3,
+      "fat_pref": 4,
+      "medical_cond": 0,
+      "env_concern": 1,
+      "sodium_concern": 5,
+      "protein_pref": 2,
+      "variety_pref": 1
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Digestive health",
+      "Heart health",
+      "Energy levels"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 79.4,
+    "scores": {
+      "plant_based": 77.8,
+      "mediterranean": 79.4,
+      "low_carb": 62.9,
+      "therapeutic": 72.4
+    },
+    "feature_vector": [
+      1.0,
+      1.0,
+      5.0,
+      3.0,
+      4.0,
+      0.0,
+      1.0,
+      5.0,
+      2.0,
+      1.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-20T15:28:24.579139",
+    "name": "Dummy_User_31",
+    "age": 78,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 4,
+      "veg_freq": 4,
+      "fruit_freq": 5,
+      "grain_freq": 4,
+      "fat_pref": 3,
+      "medical_cond": 0,
+      "env_concern": 2,
+      "sodium_concern": 4,
+      "protein_pref": 4,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Energy levels",
+      "Muscle gain"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 95.9,
+    "scores": {
+      "plant_based": 86.7,
+      "mediterranean": 95.9,
+      "low_carb": 79.5,
+      "therapeutic": 76.9
+    },
+    "feature_vector": [
+      4.0,
+      4.0,
+      5.0,
+      4.0,
+      3.0,
+      0.0,
+      2.0,
+      4.0,
+      4.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-18T15:28:24.579139",
+    "name": "Dummy_User_32",
+    "age": 32,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 0,
+      "fruit_freq": 2,
+      "grain_freq": 0,
+      "fat_pref": 5,
+      "medical_cond": 0,
+      "env_concern": 5,
+      "sodium_concern": 0,
+      "protein_pref": 1,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "General wellness",
+      "Weight loss",
+      "Energy levels"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 57.1,
+    "scores": {
+      "plant_based": 51.5,
+      "mediterranean": 56.3,
+      "low_carb": 57.1,
+      "therapeutic": 41.9
+    },
+    "feature_vector": [
+      0.0,
+      0.0,
+      2.0,
+      0.0,
+      5.0,
+      0.0,
+      5.0,
+      0.0,
+      1.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-05T15:28:24.579139",
+    "name": "Dummy_User_33",
+    "age": 35,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 2,
+      "fruit_freq": 2,
+      "grain_freq": 2,
+      "fat_pref": 4,
+      "medical_cond": 0,
+      "env_concern": 5,
+      "sodium_concern": 2,
+      "protein_pref": 3,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "Shellfish"
+    ],
+    "goals": [
+      "Digestive health"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 90.1,
+    "scores": {
+      "plant_based": 68.8,
+      "mediterranean": 87.1,
+      "low_carb": 90.1,
+      "therapeutic": 65.4
+    },
+    "feature_vector": [
+      5.0,
+      2.0,
+      2.0,
+      2.0,
+      4.0,
+      0.0,
+      5.0,
+      2.0,
+      3.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-18T15:28:24.579139",
+    "name": "Dummy_User_34",
+    "age": 20,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 3,
+      "fruit_freq": 2,
+      "grain_freq": 5,
+      "fat_pref": 3,
+      "medical_cond": 0,
+      "env_concern": 0,
+      "sodium_concern": 3,
+      "protein_pref": 2,
+      "variety_pref": 1
+    },
+    "allergies": [
+      "Soy"
+    ],
+    "goals": [
+      "Blood sugar control",
+      "Heart health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 87.0,
+    "scores": {
+      "plant_based": 70.2,
+      "mediterranean": 87.0,
+      "low_carb": 80.8,
+      "therapeutic": 72.3
+    },
+    "feature_vector": [
+      5.0,
+      3.0,
+      2.0,
+      5.0,
+      3.0,
+      0.0,
+      0.0,
+      3.0,
+      2.0,
+      1.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-09T15:28:24.579139",
+    "name": "Dummy_User_35",
+    "age": 47,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 4,
+      "veg_freq": 1,
+      "fruit_freq": 3,
+      "grain_freq": 4,
+      "fat_pref": 3,
+      "medical_cond": 0,
+      "env_concern": 3,
+      "sodium_concern": 4,
+      "protein_pref": 5,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Blood sugar control",
+      "Muscle gain",
+      "Energy levels"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 86.6,
+    "scores": {
+      "plant_based": 73.4,
+      "mediterranean": 86.6,
+      "low_carb": 86.2,
+      "therapeutic": 70.1
+    },
+    "feature_vector": [
+      4.0,
+      1.0,
+      3.0,
+      4.0,
+      3.0,
+      0.0,
+      3.0,
+      4.0,
+      5.0,
+      0.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-29T15:28:24.579139",
+    "name": "Dummy_User_36",
+    "age": 57,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 4,
+      "fruit_freq": 1,
+      "grain_freq": 5,
+      "fat_pref": 4,
+      "medical_cond": 1,
+      "env_concern": 1,
+      "sodium_concern": 5,
+      "protein_pref": 2,
+      "variety_pref": 1
+    },
+    "allergies": [
+      "Shellfish",
+      "Gluten"
+    ],
+    "goals": [
+      "Muscle gain"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 87.6,
+    "scores": {
+      "plant_based": 78.0,
+      "mediterranean": 87.6,
+      "low_carb": 71.2,
+      "therapeutic": 80.7
+    },
+    "feature_vector": [
+      2.0,
+      4.0,
+      1.0,
+      5.0,
+      4.0,
+      1.0,
+      1.0,
+      5.0,
+      2.0,
+      1.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-16T15:28:24.579139",
+    "name": "Dummy_User_37",
+    "age": 20,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 5,
+      "fruit_freq": 4,
+      "grain_freq": 2,
+      "fat_pref": 2,
+      "medical_cond": 5,
+      "env_concern": 3,
+      "sodium_concern": 3,
+      "protein_pref": 3,
+      "variety_pref": 4
+    },
+    "allergies": [
+      "Eggs",
+      "Lactose/Dairy"
+    ],
+    "goals": [
+      "General wellness",
+      "Anti-inflammatory"
+    ],
+    "diet_key": "therapeutic",
+    "diet_name": "Therapeutic",
+    "confidence": 88.9,
+    "scores": {
+      "plant_based": 81.5,
+      "mediterranean": 85.3,
+      "low_carb": 60.6,
+      "therapeutic": 88.9
+    },
+    "feature_vector": [
+      0.0,
+      5.0,
+      4.0,
+      2.0,
+      2.0,
+      5.0,
+      3.0,
+      3.0,
+      3.0,
+      4.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-12T15:28:24.579139",
+    "name": "Dummy_User_38",
+    "age": 76,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 4,
+      "fruit_freq": 5,
+      "grain_freq": 5,
+      "fat_pref": 0,
+      "medical_cond": 1,
+      "env_concern": 5,
+      "sodium_concern": 0,
+      "protein_pref": 1,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "Soy"
+    ],
+    "goals": [
+      "General wellness",
+      "Digestive health",
+      "Anti-inflammatory"
+    ],
+    "diet_key": "plant_based",
+    "diet_name": "Plant-Based",
+    "confidence": 92.9,
+    "scores": {
+      "plant_based": 92.9,
+      "mediterranean": 83.7,
+      "low_carb": 49.7,
+      "therapeutic": 59.9
+    },
+    "feature_vector": [
+      1.0,
+      4.0,
+      5.0,
+      5.0,
+      0.0,
+      1.0,
+      5.0,
+      0.0,
+      1.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-07T15:28:24.579139",
+    "name": "Dummy_User_39",
+    "age": 55,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 3,
+      "veg_freq": 3,
+      "fruit_freq": 3,
+      "grain_freq": 3,
+      "fat_pref": 2,
+      "medical_cond": 0,
+      "env_concern": 1,
+      "sodium_concern": 1,
+      "protein_pref": 5,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "Gluten"
+    ],
+    "goals": [
+      "Energy levels",
+      "Heart health",
+      "General wellness"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 85.8,
+    "scores": {
+      "plant_based": 74.9,
+      "mediterranean": 85.8,
+      "low_carb": 82.9,
+      "therapeutic": 62.8
+    },
+    "feature_vector": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      2.0,
+      0.0,
+      1.0,
+      1.0,
+      5.0,
+      0.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-27T15:28:24.579139",
+    "name": "Dummy_User_40",
+    "age": 80,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 3,
+      "fruit_freq": 2,
+      "grain_freq": 1,
+      "fat_pref": 4,
+      "medical_cond": 1,
+      "env_concern": 3,
+      "sodium_concern": 1,
+      "protein_pref": 1,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "Nuts"
+    ],
+    "goals": [
+      "General wellness",
+      "Digestive health",
+      "Anti-inflammatory"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 86.2,
+    "scores": {
+      "plant_based": 73.6,
+      "mediterranean": 86.2,
+      "low_carb": 77.3,
+      "therapeutic": 72.4
+    },
+    "feature_vector": [
+      2.0,
+      3.0,
+      2.0,
+      1.0,
+      4.0,
+      1.0,
+      3.0,
+      1.0,
+      1.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-08T15:28:24.579139",
+    "name": "Dummy_User_41",
+    "age": 66,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 4,
+      "veg_freq": 2,
+      "fruit_freq": 0,
+      "grain_freq": 5,
+      "fat_pref": 3,
+      "medical_cond": 2,
+      "env_concern": 3,
+      "sodium_concern": 2,
+      "protein_pref": 0,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Digestive health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 83.5,
+    "scores": {
+      "plant_based": 66.4,
+      "mediterranean": 83.5,
+      "low_carb": 78.4,
+      "therapeutic": 77.5
+    },
+    "feature_vector": [
+      4.0,
+      2.0,
+      0.0,
+      5.0,
+      3.0,
+      2.0,
+      3.0,
+      2.0,
+      0.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-24T15:28:24.579139",
+    "name": "Dummy_User_42",
+    "age": 56,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 3,
+      "fruit_freq": 5,
+      "grain_freq": 5,
+      "fat_pref": 4,
+      "medical_cond": 0,
+      "env_concern": 1,
+      "sodium_concern": 3,
+      "protein_pref": 2,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "Shellfish"
+    ],
+    "goals": [
+      "Weight loss",
+      "General wellness",
+      "Blood sugar control"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 91.7,
+    "scores": {
+      "plant_based": 79.5,
+      "mediterranean": 91.7,
+      "low_carb": 79.1,
+      "therapeutic": 75.6
+    },
+    "feature_vector": [
+      5.0,
+      3.0,
+      5.0,
+      5.0,
+      4.0,
+      0.0,
+      1.0,
+      3.0,
+      2.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-07T15:28:24.579139",
+    "name": "Dummy_User_43",
+    "age": 67,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 3,
+      "fruit_freq": 4,
+      "grain_freq": 2,
+      "fat_pref": 3,
+      "medical_cond": 0,
+      "env_concern": 1,
+      "sodium_concern": 3,
+      "protein_pref": 1,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Anti-inflammatory"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 87.8,
+    "scores": {
+      "plant_based": 79.2,
+      "mediterranean": 87.8,
+      "low_carb": 62.3,
+      "therapeutic": 76.0
+    },
+    "feature_vector": [
+      2.0,
+      3.0,
+      4.0,
+      2.0,
+      3.0,
+      0.0,
+      1.0,
+      3.0,
+      1.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-22T15:28:24.579139",
+    "name": "Dummy_User_44",
+    "age": 28,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 5,
+      "fruit_freq": 1,
+      "grain_freq": 1,
+      "fat_pref": 4,
+      "medical_cond": 5,
+      "env_concern": 1,
+      "sodium_concern": 0,
+      "protein_pref": 4,
+      "variety_pref": 1
+    },
+    "allergies": [
+      "Shellfish",
+      "Lactose/Dairy"
+    ],
+    "goals": [
+      "Anti-inflammatory"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 77.7,
+    "scores": {
+      "plant_based": 53.5,
+      "mediterranean": 70.7,
+      "low_carb": 77.7,
+      "therapeutic": 75.4
+    },
+    "feature_vector": [
+      2.0,
+      5.0,
+      1.0,
+      1.0,
+      4.0,
+      5.0,
+      1.0,
+      0.0,
+      4.0,
+      1.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-23T15:28:24.579139",
+    "name": "Dummy_User_45",
+    "age": 60,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 2,
+      "fruit_freq": 3,
+      "grain_freq": 5,
+      "fat_pref": 2,
+      "medical_cond": 0,
+      "env_concern": 4,
+      "sodium_concern": 2,
+      "protein_pref": 3,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "Shellfish"
+    ],
+    "goals": [
+      "Anti-inflammatory",
+      "Energy levels",
+      "Heart health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 93.2,
+    "scores": {
+      "plant_based": 91.5,
+      "mediterranean": 93.2,
+      "low_carb": 68.9,
+      "therapeutic": 72.1
+    },
+    "feature_vector": [
+      1.0,
+      2.0,
+      3.0,
+      5.0,
+      2.0,
+      0.0,
+      4.0,
+      2.0,
+      3.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-29T15:28:24.579139",
+    "name": "Dummy_User_46",
+    "age": 78,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 3,
+      "fruit_freq": 0,
+      "grain_freq": 0,
+      "fat_pref": 5,
+      "medical_cond": 5,
+      "env_concern": 2,
+      "sodium_concern": 1,
+      "protein_pref": 0,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Energy levels",
+      "Anti-inflammatory"
+    ],
+    "diet_key": "therapeutic",
+    "diet_name": "Therapeutic",
+    "confidence": 76.4,
+    "scores": {
+      "plant_based": 40.4,
+      "mediterranean": 60.9,
+      "low_carb": 68.0,
+      "therapeutic": 76.4
+    },
+    "feature_vector": [
+      2.0,
+      3.0,
+      0.0,
+      0.0,
+      5.0,
+      5.0,
+      2.0,
+      1.0,
+      0.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-22T15:28:24.579139",
+    "name": "Dummy_User_47",
+    "age": 52,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 1,
+      "fruit_freq": 4,
+      "grain_freq": 4,
+      "fat_pref": 1,
+      "medical_cond": 0,
+      "env_concern": 2,
+      "sodium_concern": 3,
+      "protein_pref": 0,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Digestive health",
+      "Energy levels",
+      "Heart health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 86.6,
+    "scores": {
+      "plant_based": 85.3,
+      "mediterranean": 86.6,
+      "low_carb": 55.9,
+      "therapeutic": 73.6
+    },
+    "feature_vector": [
+      2.0,
+      1.0,
+      4.0,
+      4.0,
+      1.0,
+      0.0,
+      2.0,
+      3.0,
+      0.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-28T15:28:24.579139",
+    "name": "Dummy_User_48",
+    "age": 60,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 0,
+      "fruit_freq": 4,
+      "grain_freq": 0,
+      "fat_pref": 2,
+      "medical_cond": 0,
+      "env_concern": 1,
+      "sodium_concern": 1,
+      "protein_pref": 4,
+      "variety_pref": 1
+    },
+    "allergies": [
+      "Shellfish",
+      "Eggs"
+    ],
+    "goals": [
+      "Blood sugar control"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 83.4,
+    "scores": {
+      "plant_based": 46.7,
+      "mediterranean": 68.1,
+      "low_carb": 83.4,
+      "therapeutic": 53.1
+    },
+    "feature_vector": [
+      5.0,
+      0.0,
+      4.0,
+      0.0,
+      2.0,
+      0.0,
+      1.0,
+      1.0,
+      4.0,
+      1.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-30T15:28:24.579139",
+    "name": "Dummy_User_49",
+    "age": 46,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 0,
+      "fruit_freq": 4,
+      "grain_freq": 3,
+      "fat_pref": 2,
+      "medical_cond": 1,
+      "env_concern": 2,
+      "sodium_concern": 3,
+      "protein_pref": 2,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Weight loss",
+      "Heart health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 80.3,
+    "scores": {
+      "plant_based": 76.8,
+      "mediterranean": 80.3,
+      "low_carb": 55.2,
+      "therapeutic": 77.7
+    },
+    "feature_vector": [
+      0.0,
+      0.0,
+      4.0,
+      3.0,
+      2.0,
+      1.0,
+      2.0,
+      3.0,
+      2.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-24T15:28:24.579139",
+    "name": "Dummy_User_50",
+    "age": 41,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 4,
+      "veg_freq": 3,
+      "fruit_freq": 2,
+      "grain_freq": 2,
+      "fat_pref": 4,
+      "medical_cond": 1,
+      "env_concern": 2,
+      "sodium_concern": 5,
+      "protein_pref": 2,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Digestive health",
+      "Weight loss",
+      "Anti-inflammatory"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 90.7,
+    "scores": {
+      "plant_based": 71.9,
+      "mediterranean": 90.7,
+      "low_carb": 81.8,
+      "therapeutic": 83.9
+    },
+    "feature_vector": [
+      4.0,
+      3.0,
+      2.0,
+      2.0,
+      4.0,
+      1.0,
+      2.0,
+      5.0,
+      2.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-24T15:28:24.579139",
+    "name": "Dummy_User_51",
+    "age": 41,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 3,
+      "fruit_freq": 3,
+      "grain_freq": 0,
+      "fat_pref": 5,
+      "medical_cond": 2,
+      "env_concern": 2,
+      "sodium_concern": 1,
+      "protein_pref": 2,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "Gluten"
+    ],
+    "goals": [
+      "Anti-inflammatory"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 88.4,
+    "scores": {
+      "plant_based": 53.2,
+      "mediterranean": 73.4,
+      "low_carb": 88.4,
+      "therapeutic": 64.6
+    },
+    "feature_vector": [
+      5.0,
+      3.0,
+      3.0,
+      0.0,
+      5.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      0.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-10T15:28:24.579139",
+    "name": "Dummy_User_52",
+    "age": 36,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 1,
+      "fruit_freq": 3,
+      "grain_freq": 4,
+      "fat_pref": 5,
+      "medical_cond": 0,
+      "env_concern": 0,
+      "sodium_concern": 2,
+      "protein_pref": 5,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Muscle gain",
+      "Digestive health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 79.4,
+    "scores": {
+      "plant_based": 66.1,
+      "mediterranean": 79.4,
+      "low_carb": 72.8,
+      "therapeutic": 70.6
+    },
+    "feature_vector": [
+      1.0,
+      1.0,
+      3.0,
+      4.0,
+      5.0,
+      0.0,
+      0.0,
+      2.0,
+      5.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-31T15:28:24.579139",
+    "name": "Dummy_User_53",
+    "age": 34,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 4,
+      "veg_freq": 1,
+      "fruit_freq": 0,
+      "grain_freq": 3,
+      "fat_pref": 5,
+      "medical_cond": 0,
+      "env_concern": 4,
+      "sodium_concern": 2,
+      "protein_pref": 4,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "Lactose/Dairy",
+      "Gluten"
+    ],
+    "goals": [
+      "Heart health"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 86.3,
+    "scores": {
+      "plant_based": 58.8,
+      "mediterranean": 82.2,
+      "low_carb": 86.3,
+      "therapeutic": 67.6
+    },
+    "feature_vector": [
+      4.0,
+      1.0,
+      0.0,
+      3.0,
+      5.0,
+      0.0,
+      4.0,
+      2.0,
+      4.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-06T15:28:24.579139",
+    "name": "Dummy_User_54",
+    "age": 44,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 3,
+      "veg_freq": 4,
+      "fruit_freq": 2,
+      "grain_freq": 5,
+      "fat_pref": 2,
+      "medical_cond": 5,
+      "env_concern": 0,
+      "sodium_concern": 5,
+      "protein_pref": 0,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Anti-inflammatory",
+      "Digestive health",
+      "General wellness"
+    ],
+    "diet_key": "therapeutic",
+    "diet_name": "Therapeutic",
+    "confidence": 94.0,
+    "scores": {
+      "plant_based": 68.1,
+      "mediterranean": 81.8,
+      "low_carb": 59.9,
+      "therapeutic": 94.0
+    },
+    "feature_vector": [
+      3.0,
+      4.0,
+      2.0,
+      5.0,
+      2.0,
+      5.0,
+      0.0,
+      5.0,
+      0.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-02T15:28:24.579139",
+    "name": "Dummy_User_55",
+    "age": 51,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 3,
+      "veg_freq": 5,
+      "fruit_freq": 0,
+      "grain_freq": 3,
+      "fat_pref": 0,
+      "medical_cond": 0,
+      "env_concern": 4,
+      "sodium_concern": 0,
+      "protein_pref": 3,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "Eggs"
+    ],
+    "goals": [
+      "Digestive health",
+      "Heart health",
+      "General wellness"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 84.8,
+    "scores": {
+      "plant_based": 74.2,
+      "mediterranean": 84.8,
+      "low_carb": 65.4,
+      "therapeutic": 56.1
+    },
+    "feature_vector": [
+      3.0,
+      5.0,
+      0.0,
+      3.0,
+      0.0,
+      0.0,
+      4.0,
+      0.0,
+      3.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-29T15:28:24.579139",
+    "name": "Dummy_User_56",
+    "age": 34,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 5,
+      "fruit_freq": 0,
+      "grain_freq": 0,
+      "fat_pref": 0,
+      "medical_cond": 2,
+      "env_concern": 4,
+      "sodium_concern": 2,
+      "protein_pref": 1,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "General wellness",
+      "Heart health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 76.5,
+    "scores": {
+      "plant_based": 56.5,
+      "mediterranean": 76.5,
+      "low_carb": 62.0,
+      "therapeutic": 66.0
+    },
+    "feature_vector": [
+      5.0,
+      5.0,
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      4.0,
+      2.0,
+      1.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-07T15:28:24.579139",
+    "name": "Dummy_User_57",
+    "age": 24,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 0,
+      "fruit_freq": 2,
+      "grain_freq": 4,
+      "fat_pref": 0,
+      "medical_cond": 5,
+      "env_concern": 2,
+      "sodium_concern": 2,
+      "protein_pref": 3,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "Lactose/Dairy",
+      "Gluten"
+    ],
+    "goals": [
+      "Heart health"
+    ],
+    "diet_key": "therapeutic",
+    "diet_name": "Therapeutic",
+    "confidence": 85.6,
+    "scores": {
+      "plant_based": 54.2,
+      "mediterranean": 75.8,
+      "low_carb": 79.8,
+      "therapeutic": 85.6
+    },
+    "feature_vector": [
+      5.0,
+      0.0,
+      2.0,
+      4.0,
+      0.0,
+      5.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-11T15:28:24.579139",
+    "name": "Dummy_User_58",
+    "age": 59,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 2,
+      "fruit_freq": 1,
+      "grain_freq": 1,
+      "fat_pref": 0,
+      "medical_cond": 0,
+      "env_concern": 2,
+      "sodium_concern": 3,
+      "protein_pref": 2,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Digestive health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 87.6,
+    "scores": {
+      "plant_based": 78.4,
+      "mediterranean": 87.6,
+      "low_carb": 57.0,
+      "therapeutic": 74.0
+    },
+    "feature_vector": [
+      1.0,
+      2.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      2.0,
+      3.0,
+      2.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-16T15:28:24.579139",
+    "name": "Dummy_User_59",
+    "age": 69,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 3,
+      "fruit_freq": 2,
+      "grain_freq": 2,
+      "fat_pref": 3,
+      "medical_cond": 2,
+      "env_concern": 3,
+      "sodium_concern": 2,
+      "protein_pref": 5,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "Soy",
+      "Eggs"
+    ],
+    "goals": [
+      "General wellness",
+      "Blood sugar control",
+      "Weight loss"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 90.2,
+    "scores": {
+      "plant_based": 78.1,
+      "mediterranean": 90.2,
+      "low_carb": 80.8,
+      "therapeutic": 81.0
+    },
+    "feature_vector": [
+      1.0,
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      3.0,
+      2.0,
+      5.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-05T15:28:24.579139",
+    "name": "Dummy_User_60",
+    "age": 34,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 0,
+      "fruit_freq": 4,
+      "grain_freq": 3,
+      "fat_pref": 2,
+      "medical_cond": 1,
+      "env_concern": 3,
+      "sodium_concern": 0,
+      "protein_pref": 1,
+      "variety_pref": 4
+    },
+    "allergies": [
+      "Soy",
+      "Lactose/Dairy"
+    ],
+    "goals": [
+      "Weight loss"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 79.2,
+    "scores": {
+      "plant_based": 62.8,
+      "mediterranean": 79.2,
+      "low_carb": 76.7,
+      "therapeutic": 65.8
+    },
+    "feature_vector": [
+      5.0,
+      0.0,
+      4.0,
+      3.0,
+      2.0,
+      1.0,
+      3.0,
+      0.0,
+      1.0,
+      4.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-17T15:28:24.579139",
+    "name": "Dummy_User_61",
+    "age": 33,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 0,
+      "fruit_freq": 0,
+      "grain_freq": 3,
+      "fat_pref": 5,
+      "medical_cond": 0,
+      "env_concern": 2,
+      "sodium_concern": 1,
+      "protein_pref": 1,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "Shellfish"
+    ],
+    "goals": [
+      "General wellness",
+      "Energy levels"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 73.1,
+    "scores": {
+      "plant_based": 49.4,
+      "mediterranean": 60.6,
+      "low_carb": 73.1,
+      "therapeutic": 50.6
+    },
+    "feature_vector": [
+      1.0,
+      0.0,
+      0.0,
+      3.0,
+      5.0,
+      0.0,
+      2.0,
+      1.0,
+      1.0,
+      0.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-08T15:28:24.579139",
+    "name": "Dummy_User_62",
+    "age": 52,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 4,
+      "fruit_freq": 2,
+      "grain_freq": 3,
+      "fat_pref": 5,
+      "medical_cond": 0,
+      "env_concern": 5,
+      "sodium_concern": 2,
+      "protein_pref": 0,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Blood sugar control",
+      "Heart health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 85.2,
+    "scores": {
+      "plant_based": 77.8,
+      "mediterranean": 85.2,
+      "low_carb": 65.3,
+      "therapeutic": 66.6
+    },
+    "feature_vector": [
+      2.0,
+      4.0,
+      2.0,
+      3.0,
+      5.0,
+      0.0,
+      5.0,
+      2.0,
+      0.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-21T15:28:24.579139",
+    "name": "Dummy_User_63",
+    "age": 24,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 4,
+      "fruit_freq": 3,
+      "grain_freq": 4,
+      "fat_pref": 5,
+      "medical_cond": 0,
+      "env_concern": 1,
+      "sodium_concern": 1,
+      "protein_pref": 5,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Energy levels"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 85.8,
+    "scores": {
+      "plant_based": 78.4,
+      "mediterranean": 85.8,
+      "low_carb": 76.8,
+      "therapeutic": 66.6
+    },
+    "feature_vector": [
+      1.0,
+      4.0,
+      3.0,
+      4.0,
+      5.0,
+      0.0,
+      1.0,
+      1.0,
+      5.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-20T15:28:24.579139",
+    "name": "Dummy_User_64",
+    "age": 47,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 5,
+      "fruit_freq": 2,
+      "grain_freq": 2,
+      "fat_pref": 2,
+      "medical_cond": 1,
+      "env_concern": 4,
+      "sodium_concern": 4,
+      "protein_pref": 5,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "Eggs",
+      "Soy"
+    ],
+    "goals": [
+      "Blood sugar control",
+      "Digestive health",
+      "Heart health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 93.8,
+    "scores": {
+      "plant_based": 83.9,
+      "mediterranean": 93.8,
+      "low_carb": 74.3,
+      "therapeutic": 77.5
+    },
+    "feature_vector": [
+      2.0,
+      5.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0,
+      4.0,
+      4.0,
+      5.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-08T15:28:24.579139",
+    "name": "Dummy_User_65",
+    "age": 68,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 4,
+      "veg_freq": 4,
+      "fruit_freq": 0,
+      "grain_freq": 2,
+      "fat_pref": 3,
+      "medical_cond": 2,
+      "env_concern": 3,
+      "sodium_concern": 4,
+      "protein_pref": 0,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Blood sugar control",
+      "Heart health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 84.3,
+    "scores": {
+      "plant_based": 66.2,
+      "mediterranean": 84.3,
+      "low_carb": 74.2,
+      "therapeutic": 79.8
+    },
+    "feature_vector": [
+      4.0,
+      4.0,
+      0.0,
+      2.0,
+      3.0,
+      2.0,
+      3.0,
+      4.0,
+      0.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-28T15:28:24.579139",
+    "name": "Dummy_User_66",
+    "age": 57,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 1,
+      "fruit_freq": 2,
+      "grain_freq": 3,
+      "fat_pref": 3,
+      "medical_cond": 2,
+      "env_concern": 2,
+      "sodium_concern": 3,
+      "protein_pref": 2,
+      "variety_pref": 1
+    },
+    "allergies": [
+      "Eggs",
+      "Soy"
+    ],
+    "goals": [
+      "Weight loss"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 89.9,
+    "scores": {
+      "plant_based": 76.6,
+      "mediterranean": 89.9,
+      "low_carb": 85.3,
+      "therapeutic": 89.4
+    },
+    "feature_vector": [
+      2.0,
+      1.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      1.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-11T15:28:24.579139",
+    "name": "Dummy_User_67",
+    "age": 67,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 4,
+      "fruit_freq": 0,
+      "grain_freq": 5,
+      "fat_pref": 4,
+      "medical_cond": 0,
+      "env_concern": 2,
+      "sodium_concern": 4,
+      "protein_pref": 5,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Heart health",
+      "Blood sugar control"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 89.0,
+    "scores": {
+      "plant_based": 75.8,
+      "mediterranean": 89.0,
+      "low_carb": 78.1,
+      "therapeutic": 73.6
+    },
+    "feature_vector": [
+      2.0,
+      4.0,
+      0.0,
+      5.0,
+      4.0,
+      0.0,
+      2.0,
+      4.0,
+      5.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-24T15:28:24.579139",
+    "name": "Dummy_User_68",
+    "age": 33,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 1,
+      "fruit_freq": 3,
+      "grain_freq": 2,
+      "fat_pref": 5,
+      "medical_cond": 0,
+      "env_concern": 1,
+      "sodium_concern": 5,
+      "protein_pref": 4,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "Soy"
+    ],
+    "goals": [
+      "Weight loss"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 80.2,
+    "scores": {
+      "plant_based": 68.3,
+      "mediterranean": 80.2,
+      "low_carb": 72.4,
+      "therapeutic": 75.0
+    },
+    "feature_vector": [
+      1.0,
+      1.0,
+      3.0,
+      2.0,
+      5.0,
+      0.0,
+      1.0,
+      5.0,
+      4.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-05T15:28:24.579139",
+    "name": "Dummy_User_69",
+    "age": 29,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 2,
+      "fruit_freq": 0,
+      "grain_freq": 3,
+      "fat_pref": 1,
+      "medical_cond": 5,
+      "env_concern": 2,
+      "sodium_concern": 1,
+      "protein_pref": 2,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "Lactose/Dairy"
+    ],
+    "goals": [
+      "Digestive health",
+      "Anti-inflammatory"
+    ],
+    "diet_key": "therapeutic",
+    "diet_name": "Therapeutic",
+    "confidence": 87.9,
+    "scores": {
+      "plant_based": 55.7,
+      "mediterranean": 75.3,
+      "low_carb": 66.7,
+      "therapeutic": 87.9
+    },
+    "feature_vector": [
+      2.0,
+      2.0,
+      0.0,
+      3.0,
+      1.0,
+      5.0,
+      2.0,
+      1.0,
+      2.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-08T15:28:24.579139",
+    "name": "Dummy_User_70",
+    "age": 75,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 2,
+      "veg_freq": 0,
+      "fruit_freq": 0,
+      "grain_freq": 1,
+      "fat_pref": 4,
+      "medical_cond": 0,
+      "env_concern": 4,
+      "sodium_concern": 1,
+      "protein_pref": 1,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Heart health",
+      "Weight loss"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 67.3,
+    "scores": {
+      "plant_based": 47.9,
+      "mediterranean": 66.8,
+      "low_carb": 67.3,
+      "therapeutic": 55.9
+    },
+    "feature_vector": [
+      2.0,
+      0.0,
+      0.0,
+      1.0,
+      4.0,
+      0.0,
+      4.0,
+      1.0,
+      1.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-31T15:28:24.579139",
+    "name": "Dummy_User_71",
+    "age": 19,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 1,
+      "fruit_freq": 5,
+      "grain_freq": 0,
+      "fat_pref": 3,
+      "medical_cond": 0,
+      "env_concern": 5,
+      "sodium_concern": 3,
+      "protein_pref": 4,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Muscle gain"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 76.0,
+    "scores": {
+      "plant_based": 73.1,
+      "mediterranean": 76.0,
+      "low_carb": 58.0,
+      "therapeutic": 61.8
+    },
+    "feature_vector": [
+      0.0,
+      1.0,
+      5.0,
+      0.0,
+      3.0,
+      0.0,
+      5.0,
+      3.0,
+      4.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-22T15:28:24.579139",
+    "name": "Dummy_User_72",
+    "age": 60,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 4,
+      "fruit_freq": 3,
+      "grain_freq": 5,
+      "fat_pref": 0,
+      "medical_cond": 1,
+      "env_concern": 0,
+      "sodium_concern": 2,
+      "protein_pref": 2,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Digestive health",
+      "Energy levels",
+      "Heart health"
+    ],
+    "diet_key": "plant_based",
+    "diet_name": "Plant-Based",
+    "confidence": 83.6,
+    "scores": {
+      "plant_based": 83.6,
+      "mediterranean": 83.5,
+      "low_carb": 43.4,
+      "therapeutic": 74.4
+    },
+    "feature_vector": [
+      0.0,
+      4.0,
+      3.0,
+      5.0,
+      0.0,
+      1.0,
+      0.0,
+      2.0,
+      2.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-29T15:28:24.579139",
+    "name": "Dummy_User_73",
+    "age": 46,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 3,
+      "veg_freq": 5,
+      "fruit_freq": 3,
+      "grain_freq": 4,
+      "fat_pref": 3,
+      "medical_cond": 2,
+      "env_concern": 4,
+      "sodium_concern": 5,
+      "protein_pref": 1,
+      "variety_pref": 4
+    },
+    "allergies": [
+      "Gluten"
+    ],
+    "goals": [
+      "Muscle gain",
+      "Energy levels"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 95.6,
+    "scores": {
+      "plant_based": 87.4,
+      "mediterranean": 95.6,
+      "low_carb": 69.8,
+      "therapeutic": 86.3
+    },
+    "feature_vector": [
+      3.0,
+      5.0,
+      3.0,
+      4.0,
+      3.0,
+      2.0,
+      4.0,
+      5.0,
+      1.0,
+      4.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-27T15:28:24.579139",
+    "name": "Dummy_User_74",
+    "age": 63,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 3,
+      "veg_freq": 4,
+      "fruit_freq": 5,
+      "grain_freq": 2,
+      "fat_pref": 0,
+      "medical_cond": 1,
+      "env_concern": 2,
+      "sodium_concern": 3,
+      "protein_pref": 0,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Digestive health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 87.2,
+    "scores": {
+      "plant_based": 85.1,
+      "mediterranean": 87.2,
+      "low_carb": 53.4,
+      "therapeutic": 73.9
+    },
+    "feature_vector": [
+      3.0,
+      4.0,
+      5.0,
+      2.0,
+      0.0,
+      1.0,
+      2.0,
+      3.0,
+      0.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-14T15:28:24.579139",
+    "name": "Dummy_User_75",
+    "age": 58,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 3,
+      "veg_freq": 0,
+      "fruit_freq": 5,
+      "grain_freq": 4,
+      "fat_pref": 0,
+      "medical_cond": 0,
+      "env_concern": 0,
+      "sodium_concern": 2,
+      "protein_pref": 3,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Heart health",
+      "Muscle gain"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 72.6,
+    "scores": {
+      "plant_based": 68.8,
+      "mediterranean": 72.6,
+      "low_carb": 61.9,
+      "therapeutic": 59.2
+    },
+    "feature_vector": [
+      3.0,
+      0.0,
+      5.0,
+      4.0,
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      3.0,
+      0.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-25T15:28:24.579139",
+    "name": "Dummy_User_76",
+    "age": 55,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 4,
+      "fruit_freq": 4,
+      "grain_freq": 0,
+      "fat_pref": 5,
+      "medical_cond": 0,
+      "env_concern": 1,
+      "sodium_concern": 5,
+      "protein_pref": 0,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Digestive health",
+      "Energy levels"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 72.6,
+    "scores": {
+      "plant_based": 69.4,
+      "mediterranean": 72.6,
+      "low_carb": 52.4,
+      "therapeutic": 65.6
+    },
+    "feature_vector": [
+      1.0,
+      4.0,
+      4.0,
+      0.0,
+      5.0,
+      0.0,
+      1.0,
+      5.0,
+      0.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-20T15:28:24.579139",
+    "name": "Dummy_User_77",
+    "age": 19,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 0,
+      "fruit_freq": 0,
+      "grain_freq": 2,
+      "fat_pref": 0,
+      "medical_cond": 0,
+      "env_concern": 5,
+      "sodium_concern": 0,
+      "protein_pref": 3,
+      "variety_pref": 4
+    },
+    "allergies": [
+      "Eggs",
+      "Shellfish"
+    ],
+    "goals": [
+      "Muscle gain",
+      "Digestive health"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 72.4,
+    "scores": {
+      "plant_based": 47.4,
+      "mediterranean": 69.6,
+      "low_carb": 72.4,
+      "therapeutic": 49.1
+    },
+    "feature_vector": [
+      5.0,
+      0.0,
+      0.0,
+      2.0,
+      0.0,
+      0.0,
+      5.0,
+      0.0,
+      3.0,
+      4.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-13T15:28:24.579139",
+    "name": "Dummy_User_78",
+    "age": 41,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 3,
+      "veg_freq": 1,
+      "fruit_freq": 4,
+      "grain_freq": 3,
+      "fat_pref": 2,
+      "medical_cond": 0,
+      "env_concern": 0,
+      "sodium_concern": 4,
+      "protein_pref": 5,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Heart health",
+      "Muscle gain",
+      "General wellness"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 84.9,
+    "scores": {
+      "plant_based": 69.2,
+      "mediterranean": 84.9,
+      "low_carb": 72.0,
+      "therapeutic": 76.4
+    },
+    "feature_vector": [
+      3.0,
+      1.0,
+      4.0,
+      3.0,
+      2.0,
+      0.0,
+      0.0,
+      4.0,
+      5.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-07T15:28:24.579139",
+    "name": "Dummy_User_79",
+    "age": 62,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 3,
+      "fruit_freq": 2,
+      "grain_freq": 0,
+      "fat_pref": 2,
+      "medical_cond": 5,
+      "env_concern": 5,
+      "sodium_concern": 0,
+      "protein_pref": 3,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Energy levels",
+      "General wellness",
+      "Weight loss"
+    ],
+    "diet_key": "therapeutic",
+    "diet_name": "Therapeutic",
+    "confidence": 70.0,
+    "scores": {
+      "plant_based": 61.0,
+      "mediterranean": 66.8,
+      "low_carb": 61.5,
+      "therapeutic": 70.0
+    },
+    "feature_vector": [
+      0.0,
+      3.0,
+      2.0,
+      0.0,
+      2.0,
+      5.0,
+      5.0,
+      0.0,
+      3.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-01T15:28:24.579139",
+    "name": "Dummy_User_80",
+    "age": 34,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 2,
+      "fruit_freq": 3,
+      "grain_freq": 0,
+      "fat_pref": 4,
+      "medical_cond": 0,
+      "env_concern": 2,
+      "sodium_concern": 3,
+      "protein_pref": 2,
+      "variety_pref": 1
+    },
+    "allergies": [
+      "Soy",
+      "Gluten"
+    ],
+    "goals": [
+      "Weight loss"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 85.5,
+    "scores": {
+      "plant_based": 58.7,
+      "mediterranean": 79.1,
+      "low_carb": 85.5,
+      "therapeutic": 64.6
+    },
+    "feature_vector": [
+      5.0,
+      2.0,
+      3.0,
+      0.0,
+      4.0,
+      0.0,
+      2.0,
+      3.0,
+      2.0,
+      1.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-01T15:28:24.579139",
+    "name": "Dummy_User_81",
+    "age": 78,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 2,
+      "fruit_freq": 0,
+      "grain_freq": 0,
+      "fat_pref": 5,
+      "medical_cond": 5,
+      "env_concern": 2,
+      "sodium_concern": 0,
+      "protein_pref": 3,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Energy levels",
+      "Anti-inflammatory",
+      "Weight loss"
+    ],
+    "diet_key": "therapeutic",
+    "diet_name": "Therapeutic",
+    "confidence": 72.3,
+    "scores": {
+      "plant_based": 38.9,
+      "mediterranean": 57.9,
+      "low_carb": 64.7,
+      "therapeutic": 72.3
+    },
+    "feature_vector": [
+      0.0,
+      2.0,
+      0.0,
+      0.0,
+      5.0,
+      5.0,
+      2.0,
+      0.0,
+      3.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-09T15:28:24.579139",
+    "name": "Dummy_User_82",
+    "age": 77,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 1,
+      "fruit_freq": 1,
+      "grain_freq": 2,
+      "fat_pref": 1,
+      "medical_cond": 0,
+      "env_concern": 2,
+      "sodium_concern": 3,
+      "protein_pref": 5,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "Lactose/Dairy"
+    ],
+    "goals": [
+      "Muscle gain"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 73.4,
+    "scores": {
+      "plant_based": 68.5,
+      "mediterranean": 73.4,
+      "low_carb": 64.6,
+      "therapeutic": 60.0
+    },
+    "feature_vector": [
+      0.0,
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      0.0,
+      2.0,
+      3.0,
+      5.0,
+      0.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-21T15:28:24.579139",
+    "name": "Dummy_User_83",
+    "age": 32,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 3,
+      "fruit_freq": 3,
+      "grain_freq": 0,
+      "fat_pref": 1,
+      "medical_cond": 1,
+      "env_concern": 1,
+      "sodium_concern": 4,
+      "protein_pref": 3,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Muscle gain"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 81.5,
+    "scores": {
+      "plant_based": 71.1,
+      "mediterranean": 81.5,
+      "low_carb": 55.2,
+      "therapeutic": 77.7
+    },
+    "feature_vector": [
+      1.0,
+      3.0,
+      3.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      4.0,
+      3.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-01T15:28:24.579139",
+    "name": "Dummy_User_84",
+    "age": 19,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 1,
+      "fruit_freq": 1,
+      "grain_freq": 2,
+      "fat_pref": 5,
+      "medical_cond": 0,
+      "env_concern": 3,
+      "sodium_concern": 0,
+      "protein_pref": 2,
+      "variety_pref": 1
+    },
+    "allergies": [
+      "Gluten",
+      "Soy"
+    ],
+    "goals": [
+      "General wellness"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 92.3,
+    "scores": {
+      "plant_based": 49.2,
+      "mediterranean": 72.7,
+      "low_carb": 92.3,
+      "therapeutic": 53.5
+    },
+    "feature_vector": [
+      5.0,
+      1.0,
+      1.0,
+      2.0,
+      5.0,
+      0.0,
+      3.0,
+      0.0,
+      2.0,
+      1.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-11T15:28:24.579139",
+    "name": "Dummy_User_85",
+    "age": 71,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 4,
+      "veg_freq": 0,
+      "fruit_freq": 1,
+      "grain_freq": 5,
+      "fat_pref": 1,
+      "medical_cond": 1,
+      "env_concern": 3,
+      "sodium_concern": 3,
+      "protein_pref": 5,
+      "variety_pref": 4
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Muscle gain"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 85.7,
+    "scores": {
+      "plant_based": 66.1,
+      "mediterranean": 85.7,
+      "low_carb": 80.7,
+      "therapeutic": 76.0
+    },
+    "feature_vector": [
+      4.0,
+      0.0,
+      1.0,
+      5.0,
+      1.0,
+      1.0,
+      3.0,
+      3.0,
+      5.0,
+      4.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-29T15:28:24.579139",
+    "name": "Dummy_User_86",
+    "age": 71,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 4,
+      "fruit_freq": 0,
+      "grain_freq": 5,
+      "fat_pref": 4,
+      "medical_cond": 1,
+      "env_concern": 3,
+      "sodium_concern": 4,
+      "protein_pref": 0,
+      "variety_pref": 4
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Heart health",
+      "General wellness"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 87.5,
+    "scores": {
+      "plant_based": 69.7,
+      "mediterranean": 87.5,
+      "low_carb": 74.6,
+      "therapeutic": 77.3
+    },
+    "feature_vector": [
+      5.0,
+      4.0,
+      0.0,
+      5.0,
+      4.0,
+      1.0,
+      3.0,
+      4.0,
+      0.0,
+      4.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-17T15:28:24.579139",
+    "name": "Dummy_User_87",
+    "age": 63,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 0,
+      "fruit_freq": 4,
+      "grain_freq": 0,
+      "fat_pref": 5,
+      "medical_cond": 2,
+      "env_concern": 1,
+      "sodium_concern": 5,
+      "protein_pref": 2,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "Nuts"
+    ],
+    "goals": [
+      "Weight loss"
+    ],
+    "diet_key": "therapeutic",
+    "diet_name": "Therapeutic",
+    "confidence": 78.0,
+    "scores": {
+      "plant_based": 49.7,
+      "mediterranean": 73.1,
+      "low_carb": 76.4,
+      "therapeutic": 78.0
+    },
+    "feature_vector": [
+      5.0,
+      0.0,
+      4.0,
+      0.0,
+      5.0,
+      2.0,
+      1.0,
+      5.0,
+      2.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-16T15:28:24.579139",
+    "name": "Dummy_User_88",
+    "age": 32,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 4,
+      "veg_freq": 5,
+      "fruit_freq": 1,
+      "grain_freq": 2,
+      "fat_pref": 0,
+      "medical_cond": 5,
+      "env_concern": 5,
+      "sodium_concern": 3,
+      "protein_pref": 0,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "General wellness",
+      "Heart health",
+      "Anti-inflammatory"
+    ],
+    "diet_key": "therapeutic",
+    "diet_name": "Therapeutic",
+    "confidence": 81.4,
+    "scores": {
+      "plant_based": 66.4,
+      "mediterranean": 80.0,
+      "low_carb": 59.5,
+      "therapeutic": 81.4
+    },
+    "feature_vector": [
+      4.0,
+      5.0,
+      1.0,
+      2.0,
+      0.0,
+      5.0,
+      5.0,
+      3.0,
+      0.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-24T15:28:24.579139",
+    "name": "Dummy_User_89",
+    "age": 79,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 2,
+      "fruit_freq": 2,
+      "grain_freq": 0,
+      "fat_pref": 0,
+      "medical_cond": 2,
+      "env_concern": 3,
+      "sodium_concern": 0,
+      "protein_pref": 1,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Heart health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 74.6,
+    "scores": {
+      "plant_based": 70.0,
+      "mediterranean": 74.6,
+      "low_carb": 56.3,
+      "therapeutic": 66.7
+    },
+    "feature_vector": [
+      1.0,
+      2.0,
+      2.0,
+      0.0,
+      0.0,
+      2.0,
+      3.0,
+      0.0,
+      1.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-04T15:28:24.579139",
+    "name": "Dummy_User_90",
+    "age": 56,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 4,
+      "veg_freq": 1,
+      "fruit_freq": 3,
+      "grain_freq": 4,
+      "fat_pref": 2,
+      "medical_cond": 1,
+      "env_concern": 3,
+      "sodium_concern": 1,
+      "protein_pref": 1,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "General wellness",
+      "Blood sugar control",
+      "Energy levels"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 84.0,
+    "scores": {
+      "plant_based": 74.2,
+      "mediterranean": 84.0,
+      "low_carb": 81.5,
+      "therapeutic": 67.5
+    },
+    "feature_vector": [
+      4.0,
+      1.0,
+      3.0,
+      4.0,
+      2.0,
+      1.0,
+      3.0,
+      1.0,
+      1.0,
+      0.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-05T15:28:24.579139",
+    "name": "Dummy_User_91",
+    "age": 70,
+    "gender": "Non-binary",
+    "answers": {
+      "meat_freq": 3,
+      "veg_freq": 0,
+      "fruit_freq": 0,
+      "grain_freq": 0,
+      "fat_pref": 3,
+      "medical_cond": 0,
+      "env_concern": 1,
+      "sodium_concern": 2,
+      "protein_pref": 5,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Anti-inflammatory",
+      "General wellness"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 86.2,
+    "scores": {
+      "plant_based": 31.8,
+      "mediterranean": 59.0,
+      "low_carb": 86.2,
+      "therapeutic": 50.0
+    },
+    "feature_vector": [
+      3.0,
+      0.0,
+      0.0,
+      0.0,
+      3.0,
+      0.0,
+      1.0,
+      2.0,
+      5.0,
+      0.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-15T15:28:24.579139",
+    "name": "Dummy_User_92",
+    "age": 29,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 4,
+      "veg_freq": 5,
+      "fruit_freq": 3,
+      "grain_freq": 2,
+      "fat_pref": 2,
+      "medical_cond": 5,
+      "env_concern": 4,
+      "sodium_concern": 0,
+      "protein_pref": 4,
+      "variety_pref": 1
+    },
+    "allergies": [
+      "Eggs",
+      "Shellfish"
+    ],
+    "goals": [
+      "Blood sugar control",
+      "Energy levels",
+      "Heart health"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 82.7,
+    "scores": {
+      "plant_based": 69.4,
+      "mediterranean": 82.7,
+      "low_carb": 81.5,
+      "therapeutic": 76.8
+    },
+    "feature_vector": [
+      4.0,
+      5.0,
+      3.0,
+      2.0,
+      2.0,
+      5.0,
+      4.0,
+      0.0,
+      4.0,
+      1.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-06T15:28:24.579139",
+    "name": "Dummy_User_93",
+    "age": 48,
+    "gender": "Female",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 2,
+      "fruit_freq": 3,
+      "grain_freq": 1,
+      "fat_pref": 4,
+      "medical_cond": 0,
+      "env_concern": 5,
+      "sodium_concern": 0,
+      "protein_pref": 3,
+      "variety_pref": 3
+    },
+    "allergies": [
+      "Nuts",
+      "Shellfish"
+    ],
+    "goals": [
+      "Digestive health",
+      "Anti-inflammatory"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 76.1,
+    "scores": {
+      "plant_based": 74.0,
+      "mediterranean": 76.1,
+      "low_carb": 65.8,
+      "therapeutic": 53.7
+    },
+    "feature_vector": [
+      0.0,
+      2.0,
+      3.0,
+      1.0,
+      4.0,
+      0.0,
+      5.0,
+      0.0,
+      3.0,
+      3.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-29T15:28:24.579139",
+    "name": "Dummy_User_94",
+    "age": 37,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 1,
+      "veg_freq": 1,
+      "fruit_freq": 2,
+      "grain_freq": 2,
+      "fat_pref": 3,
+      "medical_cond": 0,
+      "env_concern": 0,
+      "sodium_concern": 5,
+      "protein_pref": 5,
+      "variety_pref": 4
+    },
+    "allergies": [
+      "Gluten",
+      "Eggs"
+    ],
+    "goals": [
+      "General wellness",
+      "Energy levels"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 78.5,
+    "scores": {
+      "plant_based": 63.4,
+      "mediterranean": 78.5,
+      "low_carb": 67.3,
+      "therapeutic": 75.2
+    },
+    "feature_vector": [
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      3.0,
+      0.0,
+      0.0,
+      5.0,
+      5.0,
+      4.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-04-01T15:28:24.579139",
+    "name": "Dummy_User_95",
+    "age": 24,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 3,
+      "fruit_freq": 4,
+      "grain_freq": 4,
+      "fat_pref": 5,
+      "medical_cond": 0,
+      "env_concern": 3,
+      "sodium_concern": 1,
+      "protein_pref": 0,
+      "variety_pref": 5
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Anti-inflammatory",
+      "General wellness"
+    ],
+    "diet_key": "plant_based",
+    "diet_name": "Plant-Based",
+    "confidence": 81.0,
+    "scores": {
+      "plant_based": 81.0,
+      "mediterranean": 80.3,
+      "low_carb": 54.7,
+      "therapeutic": 64.5
+    },
+    "feature_vector": [
+      0.0,
+      3.0,
+      4.0,
+      4.0,
+      5.0,
+      0.0,
+      3.0,
+      1.0,
+      0.0,
+      5.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-11T15:28:24.579139",
+    "name": "Dummy_User_96",
+    "age": 51,
+    "gender": "Prefer not to say",
+    "answers": {
+      "meat_freq": 3,
+      "veg_freq": 0,
+      "fruit_freq": 0,
+      "grain_freq": 3,
+      "fat_pref": 1,
+      "medical_cond": 2,
+      "env_concern": 5,
+      "sodium_concern": 1,
+      "protein_pref": 2,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "Lactose/Dairy"
+    ],
+    "goals": [
+      "Digestive health"
+    ],
+    "diet_key": "low_carb",
+    "diet_name": "Low-Carb",
+    "confidence": 77.5,
+    "scores": {
+      "plant_based": 59.6,
+      "mediterranean": 76.4,
+      "low_carb": 77.5,
+      "therapeutic": 68.1
+    },
+    "feature_vector": [
+      3.0,
+      0.0,
+      0.0,
+      3.0,
+      1.0,
+      2.0,
+      5.0,
+      1.0,
+      2.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-15T15:28:24.579139",
+    "name": "Dummy_User_97",
+    "age": 39,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 5,
+      "veg_freq": 5,
+      "fruit_freq": 4,
+      "grain_freq": 3,
+      "fat_pref": 4,
+      "medical_cond": 5,
+      "env_concern": 3,
+      "sodium_concern": 4,
+      "protein_pref": 4,
+      "variety_pref": 2
+    },
+    "allergies": [
+      "Shellfish",
+      "Gluten"
+    ],
+    "goals": [
+      "Muscle gain"
+    ],
+    "diet_key": "mediterranean",
+    "diet_name": "Mediterranean",
+    "confidence": 91.7,
+    "scores": {
+      "plant_based": 75.5,
+      "mediterranean": 91.7,
+      "low_carb": 86.7,
+      "therapeutic": 90.8
+    },
+    "feature_vector": [
+      5.0,
+      5.0,
+      4.0,
+      3.0,
+      4.0,
+      5.0,
+      3.0,
+      4.0,
+      4.0,
+      2.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-26T15:28:24.579139",
+    "name": "Dummy_User_98",
+    "age": 55,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 3,
+      "fruit_freq": 4,
+      "grain_freq": 4,
+      "fat_pref": 0,
+      "medical_cond": 0,
+      "env_concern": 5,
+      "sodium_concern": 5,
+      "protein_pref": 2,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "Lactose/Dairy",
+      "Nuts"
+    ],
+    "goals": [
+      "Heart health",
+      "Muscle gain"
+    ],
+    "diet_key": "plant_based",
+    "diet_name": "Plant-Based",
+    "confidence": 92.4,
+    "scores": {
+      "plant_based": 92.4,
+      "mediterranean": 81.7,
+      "low_carb": 45.6,
+      "therapeutic": 63.1
+    },
+    "feature_vector": [
+      0.0,
+      3.0,
+      4.0,
+      4.0,
+      0.0,
+      0.0,
+      5.0,
+      5.0,
+      2.0,
+      0.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-07T15:28:24.579139",
+    "name": "Dummy_User_99",
+    "age": 50,
+    "gender": "Male",
+    "answers": {
+      "meat_freq": 3,
+      "veg_freq": 4,
+      "fruit_freq": 0,
+      "grain_freq": 5,
+      "fat_pref": 3,
+      "medical_cond": 5,
+      "env_concern": 1,
+      "sodium_concern": 1,
+      "protein_pref": 3,
+      "variety_pref": 1
+    },
+    "allergies": [
+      "Eggs"
+    ],
+    "goals": [
+      "Weight loss",
+      "Digestive health"
+    ],
+    "diet_key": "therapeutic",
+    "diet_name": "Therapeutic",
+    "confidence": 84.4,
+    "scores": {
+      "plant_based": 61.6,
+      "mediterranean": 79.2,
+      "low_carb": 80.0,
+      "therapeutic": 84.4
+    },
+    "feature_vector": [
+      3.0,
+      4.0,
+      0.0,
+      5.0,
+      3.0,
+      5.0,
+      1.0,
+      1.0,
+      3.0,
+      1.0
+    ],
+    "_imported": true
+  },
+  {
+    "timestamp": "2026-03-21T15:28:24.579139",
+    "name": "Dummy_User_100",
+    "age": 25,
+    "gender": "Other",
+    "answers": {
+      "meat_freq": 0,
+      "veg_freq": 3,
+      "fruit_freq": 0,
+      "grain_freq": 3,
+      "fat_pref": 0,
+      "medical_cond": 0,
+      "env_concern": 4,
+      "sodium_concern": 4,
+      "protein_pref": 0,
+      "variety_pref": 0
+    },
+    "allergies": [
+      "nan"
+    ],
+    "goals": [
+      "Anti-inflammatory",
+      "Blood sugar control",
+      "Digestive health"
+    ],
+    "diet_key": "plant_based",
+    "diet_name": "Plant-Based",
+    "confidence": 78.6,
+    "scores": {
+      "plant_based": 78.6,
+      "mediterranean": 71.2,
+      "low_carb": 34.8,
+      "therapeutic": 55.3
+    },
+    "feature_vector": [
+      0.0,
+      3.0,
+      0.0,
+      3.0,
+      0.0,
+      0.0,
+      4.0,
+      4.0,
+      0.0,
+      0.0
+    ],
+    "_imported": true
+  }
+]
